@@ -3,3 +3,4 @@
 FileOrganiser.spec
 *.spec
 .gitignore
+/output/*
