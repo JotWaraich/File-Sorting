@@ -1,0 +1,5 @@
+/build
+/dist
+FileOrganiser.spec
+*.spec
+.gitignore
