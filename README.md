@@ -12,7 +12,7 @@ Welcome to the File Organizer App! This application helps you keep your director
 
 ### Latest Release
 
-**Version 1.1.0**
+**Version 2.0.0**
 
 - **Enhanced Folder Naming**: Previously, files were placed in folders named after their extensions. Now, for common file types, folders have simple names like `Audio`, `Video`, `Image`, etc.
 - **Improved User Interface**: Minor UI improvements for better user experience.
