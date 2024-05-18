@@ -42,7 +42,7 @@ Welcome to the File Organizer App! This application helps you keep your director
 1. Run the application:
 
    ```sh
-   python organize_files.py /path/to/your/directory
+   python FileOrganiser.py /path/to/your/directory
    ```
 
 2. The application will scan the specified directory and organize files into appropriate folders.
